@@ -1,4 +1,4 @@
-package com.cisco.observer;
+package com.cisco.observerpattern;
 
 import java.util.Scanner;
 

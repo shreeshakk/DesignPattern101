@@ -1,4 +1,4 @@
-package com.cisco.observer;
+package com.cisco.observerpattern;
 
 /**
  * Created by Shreesha on 9/23/2016.
